@@ -1,7 +1,7 @@
-tensorflow-gpu
 pytorch-lightning
 numpy
 pandas
+numba
 matplotlib
 ipympl
 jupyterlab
